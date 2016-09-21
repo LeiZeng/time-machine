@@ -1,0 +1,5 @@
+export const CRAWL_START = 'crawl start'
+export const CRAWL_STARTED = 'crawl started'
+export const CRAWL_REPORT = 'crawl report'
+export const CRAWL_REPORTS_FETCH = 'crawl reports fetch'
+export const CRAWL_REPORTS_RECIEVE = 'crawl reports recieve'

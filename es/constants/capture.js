@@ -1,0 +1,5 @@
+export const CAPTURE_START = 'capture start'
+export const CAPTURE_STARTED = 'capture started'
+export const CAPTURE_REPORT = 'capture report'
+export const CAPTURE_REPORTS_FETCH = 'capture reports fetch'
+export const CAPTURE_REPORTS_RECIEVE = 'capture reports recieve'
